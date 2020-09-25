@@ -1,7 +1,7 @@
 # DeepLearningProjects
 All deep learning projects
 
-# 1. X-Ray Images Pneumonia Detection
+# 1. [https://github.com/2000siddharth/DeepLearningProjects/blob/master/pneumonia-detection.ipynb](X-Ray Images Pneumonia Detection)
 In this project I have created a model, which uses a CNN architecture for classifying images as having pneumonia or not.
 The model achieved 83% accuracy on the test dataset. To prevent overfitting I have used layers like:
 #### i. DropOut
